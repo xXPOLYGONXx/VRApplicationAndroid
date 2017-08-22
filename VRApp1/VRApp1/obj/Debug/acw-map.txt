@@ -1,0 +1,4 @@
+VRApp1.MainActivity, VRApp1;md5551a60d6994131f0918eb5bd5d11f729.MainActivity
+VRApp1.MainActivity, VRApp1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5551a60d6994131f0918eb5bd5d11f729.MainActivity
+VRApp1.MainActivity;md5551a60d6994131f0918eb5bd5d11f729.MainActivity
+vrapp1.MainActivity;md5551a60d6994131f0918eb5bd5d11f729.MainActivity

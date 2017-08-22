@@ -1,0 +1,13 @@
+C:\Users\jamie\Documents\Visual Studio 2017\Projects\VRApplicationAndroid\VRApp1\VRApp1\bin\Debug\VRApp1.dll
+C:\Users\jamie\Documents\Visual Studio 2017\Projects\VRApplicationAndroid\VRApp1\VRApp1\bin\Debug\VRApp1.pdb
+C:\Users\jamie\Documents\Visual Studio 2017\Projects\VRApplicationAndroid\VRApp1\VRApp1\bin\Debug\VRApp1.VRApp1.apk
+C:\Users\jamie\Documents\Visual Studio 2017\Projects\VRApplicationAndroid\VRApp1\VRApp1\bin\Debug\VRApp1.VRApp1-Signed.apk
+C:\Users\jamie\Documents\Visual Studio 2017\Projects\VRApplicationAndroid\VRApp1\VRApp1\obj\Debug\VRApp1.csprojResolveAssemblyReference.cache
+C:\Users\jamie\Documents\Visual Studio 2017\Projects\VRApplicationAndroid\VRApp1\VRApp1\obj\Debug\VRApp1.dll
+C:\Users\jamie\Documents\Visual Studio 2017\Projects\VRApplicationAndroid\VRApp1\VRApp1\obj\Debug\VRApp1.pdb
+C:\Users\jamie\Documents\Visual Studio 2017\Projects\VRApplicationAndroid\VRApp1\VRApp1\obj\Debug\android\bin\VRApp1.VRApp1.apk
+C:\Users\jamie\Documents\Visual Studio 2017\Projects\VRApplicationAndroid\VRApp1\VRApp1\obj\Debug\res\layout\main.xml
+C:\Users\jamie\Documents\Visual Studio 2017\Projects\VRApplicationAndroid\VRApp1\VRApp1\obj\Debug\res\values\strings.xml
+C:\Users\jamie\Documents\Visual Studio 2017\Projects\VRApplicationAndroid\VRApp1\VRApp1\obj\Debug\res\drawable\icon.png
+C:\Users\jamie\Documents\Visual Studio 2017\Projects\VRApplicationAndroid\VRApp1\VRApp1\obj\Debug\R.cs.flag
+C:\Users\jamie\Documents\Visual Studio 2017\Projects\VRApplicationAndroid\VRApp1\VRApp1\obj\Debug\uploadflags.txt
